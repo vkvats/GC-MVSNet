@@ -22,8 +22,7 @@ from gipuma import gipuma_filter
 from multiprocessing import Pool
 from functools import partial
 ## UniMVS DyPCD
-from filter import dypcd_filter
-from filter.tank_test_config import tank_cfg
+
 
 cudnn.benchmark = True
 
