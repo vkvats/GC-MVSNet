@@ -109,7 +109,7 @@ For a fair comparison with other SOTA methods on Tanks and Temples benchmark, we
 Set the configuration in ``finetune_bld.sh``:
 
 ## TESTING
-For easy testing, you can download our [pre-trained models](https://drive.google.com/drive/folders/1ZJ9bx9qZENEoXv5i5izKCNszlaCNBMkJ?usp=sharing) and put them in `checkpoints` folder, or use your own models and follow the instruction below.
+For easy testing, you can download our [pre-trained models]([https://drive.google.com/drive/folders/1ZJ9bx9qZENEoXv5i5izKCNszlaCNBMkJ?usp=sharing](https://drive.google.com/file/d/1oP2WtoASEentfe1dVtPTUFmhMiRmCj6W/view?usp=sharing)) and put them in `checkpoints` folder, or use your own models and follow the instruction below.
 
 ### Testing on DTU
 
@@ -166,8 +166,6 @@ SampleSet
 ```
 In ``DTU-MATLAB/BaseEvalMain_web.m``, set `dataPath` as path to `SampleSet/MVS Data/`, `plyPath` as directory that stores the reconstructed point clouds and `resultsPath` as directory to store the evaluation results. Then run ``DTU-MATLAB/BaseEvalMain_web.m`` in matlab.
 
-We also upload our final point cloud results to [here](https://drive.google.com/drive/folders/1a3b0tDoPj9y7GMhOSjb5TBRq7ahYjp4f?usp=sharing). You can easily download them and evaluate them using the `MATLAB` scripts, the results look like:
-
 
 | Evaluation hyperparameter| Acc. (mm) | Comp. (mm) | Overall (mm) |
 |--------------------------|-----------|------------|--------------|
@@ -178,7 +176,7 @@ We also upload our final point cloud results to [here](https://drive.google.com/
 
 
 ### Testing on Tanks and Temples
-We recommend using the finetuned models (``gcmvsnet-finetune.ckpt``) to test on Tanks and Temples benchmark.
+We recommend using the finetuned models to test on Tanks and Temples benchmark.
 
 Similarly, set the configuration in ``test_tnt.sh`` as described before. By default, we use dynamic filternation for TnT. 
 
