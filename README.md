@@ -109,7 +109,7 @@ For a fair comparison with other SOTA methods on Tanks and Temples benchmark, we
 Set the configuration in ``finetune_bld.sh``:
 
 ## TESTING
-For easy testing, you can download our [pre-trained models]([https://drive.google.com/drive/folders/1ZJ9bx9qZENEoXv5i5izKCNszlaCNBMkJ?usp=sharing](https://drive.google.com/file/d/1oP2WtoASEentfe1dVtPTUFmhMiRmCj6W/view?usp=sharing)) and put them in `checkpoints` folder, or use your own models and follow the instruction below.
+For easy testing, you can download our [pre-trained models](https://drive.google.com/file/d/1oP2WtoASEentfe1dVtPTUFmhMiRmCj6W/view?usp=sharing) and put them in `checkpoints` folder, or use your own models and follow the instruction below.
 
 ### Testing on DTU
 
