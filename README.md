@@ -199,7 +199,7 @@ For quantitative evaluation, you can upload your point clouds to [Tanks and Temp
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month     = {January},
     year      = {2024},
-    pages     = {-}
+    pages     = {3242--3252},
 }
 ```
 
