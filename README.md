@@ -6,6 +6,7 @@ Authors: Vibhas Vats, Sripad Joshi, Md. Reza, David Crandall, Soon-heung Jung
 
 
 ## [Paper]() | [Project Page](https://vkvats.github.io/GCMVSNet-page/) | [Arxiv](https://arxiv.org/abs/2310.19583)
+### Updated Version: [GCMVSNet++](https://arxiv.org/abs/2505.03470)
 
 **NOTE**: Please contact Vibhas Vats (vkvatsdss@gamil.com) for any help. 
 
@@ -200,6 +201,15 @@ For quantitative evaluation, you can upload your point clouds to [Tanks and Temp
     month     = {January},
     year      = {2024},
     pages     = {3242--3252},
+}
+@misc{vats2025blending3dgeometrymachine,
+      title={Blending 3D Geometry and Machine Learning for Multi-View Stereopsis}, 
+      author={Vibhas Vats and Md. Alimoor Reza and David Crandall and Soon-heung Jung},
+      year={2025},
+      eprint={2505.03470},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.03470}, 
 }
 ```
 
