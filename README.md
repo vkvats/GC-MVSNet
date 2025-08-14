@@ -6,6 +6,10 @@ Authors: Vibhas Vats, Sripad Joshi, Md. Reza, David Crandall, Soon-heung Jung
 
 
 ## [Paper]() | [Project Page](https://vkvats.github.io/GCMVSNet-page/) | [Arxiv](https://arxiv.org/abs/2310.19583)
+
+### GC-MVSNet BlendedMVS evaluation: 
+ We discovered an error in our evaluation on the BlendedMVS dataset. It has been corrected, and the updated results are available in the latest arXiv version of the paper. Please use and cite those results
+ 
 ### Updated Version: [GCMVSNet++](https://arxiv.org/abs/2505.03470)
 
 **NOTE**: Please contact Vibhas Vats (vkvatsdss@gamil.com) for any help. 
